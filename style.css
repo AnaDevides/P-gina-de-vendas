@@ -1,0 +1,17 @@
+#menu{
+ height: 100%; 
+ width: 190px;
+ background-color: rgb(150, 61, 61);  
+ font-size: 20px;
+ color: white;
+
+}
+
+li {
+border-bottom: 0.2px solid #CCC;
+    }
+
+.dropdown-item{
+    height: 100%;
+    background-color: rgb(150, 61, 61);  
+    }
